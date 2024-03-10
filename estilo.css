@@ -1,0 +1,29 @@
+table#tabela{
+    border: 1px solid hsl(0, 13%, 87%);
+    border-collapse: collapse;
+    
+}
+
+
+table#tabela td{
+    border: 1px solid #e2d9d9;
+    padding: 10px;
+    width: 200px;
+}
+
+
+
+#principal{
+    background-color: blue; 
+    color: white   ;
+    font-size: 18px ;
+    font-weight: bold;
+}
+
+#info{
+    background-color: rgb(74, 170, 74);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+}
